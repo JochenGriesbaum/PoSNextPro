@@ -1,0 +1,1 @@
+pyinstaller posnextpro/main.py --onefile

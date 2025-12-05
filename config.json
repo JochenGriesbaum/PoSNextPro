@@ -1,0 +1,4 @@
+{
+  "db": "pos.db",
+  "printer": "escpos"
+}
